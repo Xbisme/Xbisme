@@ -42,9 +42,66 @@
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
+
+---
+
+### 🚀 Published Apps
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>The Micon</b><br/>
+      <sub>Icon pack & themes</sub><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.dtp.themicon">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>VPN Proxy Super</b><br/>
+      <sub>Free VPN & secure proxy</sub><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.free.dtech.vpn.proxy.super">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>Rosafy Guard</b><br/>
+      <sub>Privacy & security guard</sub><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.dts.android.rosafyguard">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <b>Growth Habit</b><br/>
+      <sub>Build better daily habits</sub><br/><br/>
+      <a href="https://apps.apple.com/gb/app/growth-habit/id6759791819">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>Apico</b><br/>
+      <sub>Smart photo & icon tool</sub><br/><br/>
+      <a href="https://apps.apple.com/vn/app/apico/id6761757303">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>Bravio</b><br/>
+      <sub>Lifestyle companion app</sub><br/><br/>
+      <a href="https://apps.apple.com/vn/app/bravio/id6761044676">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,7 +125,7 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:xbisme0403@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:qa.dtechsolutions.vn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Xbisme"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
