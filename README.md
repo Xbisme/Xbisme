@@ -104,10 +104,11 @@
 
 ---
 
-### ⏱️ Weekly Coding Activity
+### 📈 Coding Activity & Habits
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xbisme/Xbisme/main/github-metrics.svg" alt="Metrics" />
+</p>
 
 ---
 
