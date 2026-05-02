@@ -1,0 +1,24 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Chạy mỗi thứ 2 lúc 00:00 UTC (07:00 VN)
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "True"
+          BLOCKS: "▰▱"
+          TIME_RANGE: "last_7_days"
+          LANG_COUNT: "8"
+          SHOW_TIME: "True"
+          SHOW_TOTAL: "True"
+          COMMIT_MESSAGE: "📊 Update WakaTime weekly stats"
