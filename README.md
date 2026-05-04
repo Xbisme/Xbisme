@@ -104,11 +104,7 @@
 
 ---
 
-### 📈 Coding Activity & Habits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xbisme/Xbisme/main/github-metrics.svg" alt="Metrics" />
-</p>
+### 📈 Coding Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xbisme&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
