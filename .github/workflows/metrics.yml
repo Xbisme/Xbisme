@@ -20,6 +20,10 @@ jobs:
           template: classic
           base: header, activity, repositories
           config_timezone: Asia/Ho_Chi_Minh
+          debug: yes
+          verify: yes
+          retries: 3
+          retries_delay: 300
 
           # % ngôn ngữ theo code thực tế
           plugin_languages: yes
