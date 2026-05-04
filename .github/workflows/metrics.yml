@@ -33,12 +33,8 @@ jobs:
           plugin_languages_analysis_timeout: 15
 
           # Khung giờ commit, ngày trong tuần
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
+          # plugin_habits bị bug ở v3.34 (TypeError: author undefined) — đã disable
+          plugin_habits: no
 
           # Top starred repos
           plugin_stars: yes
